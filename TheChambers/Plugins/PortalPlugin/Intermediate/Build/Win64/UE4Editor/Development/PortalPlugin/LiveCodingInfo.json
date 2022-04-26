@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PortalPlugin.cpp.obj": [
+			"PortalFunctionLibrary.cpp.obj",
+			"PortalPlugin.cpp.obj",
+			"ViewportResizedComponent.cpp.obj"
+		],
+		"Module.PortalPlugin.gen.cpp.obj": [
+			"PortalFunctionLibrary.gen.cpp.obj",
+			"PortalPlugin.init.gen.cpp.obj",
+			"ViewportResizedComponent.gen.cpp.obj"
+		]
+	}
+}
