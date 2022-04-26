@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PortalPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\dawid\Desktop\PortalPlugin-master2\PortalPlugin-master\Intermediate\Build\Win64\PortalsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dawid\Desktop\PortalPlugin-master2\PortalPlugin-master\Plugins\PortalPlugin\Intermediate\Build\Win64\UE4Editor\Development\PortalPlugin\Module.PortalPlugin.cpp.obj"
+"C:\Users\dawid\Desktop\PortalPlugin-master2\PortalPlugin-master\Plugins\PortalPlugin\Intermediate\Build\Win64\UE4Editor\Development\PortalPlugin\Module.PortalPlugin.gen.cpp.obj"
+"C:\Users\dawid\Desktop\PortalPlugin-master2\PortalPlugin-master\Plugins\PortalPlugin\Intermediate\Build\Win64\UE4Editor\Development\PortalPlugin\Default.rc2.res"
+/OUT:"C:\Users\dawid\Desktop\PortalPlugin-master2\PortalPlugin-master\Plugins\PortalPlugin\Intermediate\Build\Win64\UE4Editor\Development\PortalPlugin\UE4Editor-PortalPlugin.lib"
