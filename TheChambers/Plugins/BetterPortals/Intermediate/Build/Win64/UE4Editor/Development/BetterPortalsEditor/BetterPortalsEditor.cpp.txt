@@ -1,0 +1,2 @@
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Development\BetterPortalsEditor\Definitions.BetterPortalsEditor.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortalsEditor\Public\BetterPortalsEditor.h

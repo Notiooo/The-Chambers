@@ -1,0 +1,37 @@
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Development\BetterPortals\Definitions.BetterPortals.h
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/BetterPortals.init.gen.cpp
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/BetterPortalsGameModeBase.gen.cpp
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals/BetterPortalsGameModeBase.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals\Portal.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals\HelperMacros.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\Portal.generated.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals\PortalPawn.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicalMaterial.generated.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\PortalPawn.generated.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\BetterPortalsGameModeBase.generated.h
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/LimitVelocity.gen.cpp
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals/LimitVelocity.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\LimitVelocity.generated.h
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/Portal.gen.cpp
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/PortalCharacter.gen.cpp
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals/PortalCharacter.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\GOG Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\GOG Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\PortalCharacter.generated.h
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/PortalPawn.gen.cpp
+F:/CG/The-Chambers/The-Chambers/TheChambers/Plugins/BetterPortals/Intermediate/Build/Win64/UE4Editor/Inc/BetterPortals/PortalPlayer.gen.cpp
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Source\BetterPortals/PortalPlayer.h
+F:\CG\The-Chambers\The-Chambers\TheChambers\Plugins\BetterPortals\Intermediate\Build\Win64\UE4Editor\Inc\BetterPortals\PortalPlayer.generated.h
