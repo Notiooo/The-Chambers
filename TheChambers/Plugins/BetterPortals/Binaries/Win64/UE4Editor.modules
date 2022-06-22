@@ -1,8 +1,0 @@
-{
-	"BuildId": "17155196",
-	"Modules": 
-	{
-		"BetterPortals": "UE4Editor-BetterPortals.dll",
-		"BetterPortalsEditor": "UE4Editor-BetterPortalsEditor.dll"
-	}
-}
